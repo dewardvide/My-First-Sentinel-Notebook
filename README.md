@@ -79,3 +79,8 @@ Before running the code, make sure you select the correct kernel in this case it
 
 ![Select the kernel you created.png](https://github.com/dewardvide/My-First-Sentinel-Notebook/blob/c170de27f9c5e215ed34b29aba0cd0229433e395/screenshots/Select%20the%20kernel%20you%20created.png)
 
+### Next Steps
+
+Run FirstNotebook.ipynb to ensure that everything is working as expected and connect your notebook to Azure Sentinel.
+
+Enjoy!
