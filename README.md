@@ -43,7 +43,7 @@ No sources are needed for this one (standard Python functionality).
 Jupyter Notebooks
 
 ```bash
-pip install notebooks
+pip3 install notebooks
 ```
 
 Msticpy
@@ -57,7 +57,7 @@ pip3 install msticpy\[azsentinel]
 This step creates a Jupyter kernel that is bound to the virtual environment. This step is very important as it allows you to use the virtual environment as a kernel in Jupyter notebooks.
 
 ```bash
-python -m ipykernel install --user --name sentinel-notebooks --display-name "Python (sentinel-notebooks)"
+python3 -m ipykernel install --user --name sentinel-notebooks --display-name "Python (sentinel-notebooks)"
 ```
 ### Creating our First Notebook 
 
