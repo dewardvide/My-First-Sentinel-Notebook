@@ -69,13 +69,13 @@ jupyter notebook
 
 You may follow the steps below to create your first notebook, alternativelt you can copy the notebook in this repository to your current working directory (i.e., this is where you ran `jupyter notebook`).
 
-![[Create a new Notebook.png]]
+![Create a new Notebook.png](https://github.com/dewardvide/My-First-Sentinel-Notebook/blob/c170de27f9c5e215ed34b29aba0cd0229433e395/screenshots/Create%20a%20new%20Notebook.png)
 
 Rename and save the notebook 
 
-![[Rename your Notebook.png]]
+![Rename your Notebook.png](https://github.com/dewardvide/My-First-Sentinel-Notebook/blob/c170de27f9c5e215ed34b29aba0cd0229433e395/screenshots/Rename%20your%20Notebook.png)
 
 Before running the code, make sure you select the correct kernel in this case it will be the `Python (sentinel-notebooks)` kernel that we created in our previous steps. 
 
-![[Select the kernel you created.png]]
+![Select the kernel you created.png](https://github.com/dewardvide/My-First-Sentinel-Notebook/blob/c170de27f9c5e215ed34b29aba0cd0229433e395/screenshots/Select%20the%20kernel%20you%20created.png)
 
