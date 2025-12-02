@@ -1,6 +1,6 @@
 # My First Sentinel Notebook
 
-This is a simple guide to creating a Jupyter notebook for Azure Sentinel. It includes instructions on how to create a Python virtual environment, install dependencies, and create a Jupyter notebook as well as a sample notebook containing all the initial setup code to get you started.
+This is a simple guide to creating a Jupyter notebook for Azure Sentinel **locally**. It includes instructions on how to create a Python virtual environment, install dependencies, and create a Jupyter notebook as well as a sample notebook containing all the initial setup code to get you started.
 
 
 ### Create & activate a Python virtual environment
